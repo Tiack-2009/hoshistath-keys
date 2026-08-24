@@ -1,0 +1,22 @@
+{
+  "keys": [
+    {
+      "key": "HOSHI-ADMIN-TIACK_2K9-ABC123",
+      "owner": "HoshinoShop",
+      "expiry": "9999-9999-9999",
+      "active": true
+    },
+    {
+      "key": "HOSHI-FREE-2024-XYZ789",
+      "owner": "DemoUser",
+      "expiry": "2025-06-30",
+      "active": true
+    },
+    {
+      "key": "HOSHI-PREMIUM-2024-DEMO",
+      "owner": "PremiumUser",
+      "expiry": "2026-12-31",
+      "active": true
+    }
+  ]
+}
